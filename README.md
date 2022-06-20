@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charlie.
 - 👀 I’m interested in engineering and all things tech!
-- 🌱 I’m currently learning python whilst working on my PhD.
-- 💞️ I love the opportunities provided by code - you can make whatever you want without expensive workshops/equipment!
+- 🌱 I’m currently learning development tools and system administration.
+- 💞️ I love creating new things and problem solving!
 - 📫 Reach me via Twitter @TheCJBright.
 
 <!---
