@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Charlie.
-- 👀 I’m interested in engineering and all things tech!
-- 🌱 I’m currently learning development tools, system administration, and web development.
-- 💞️ I love creating new things and problem solving!
+- 👋 Hi, I’m Charlie!
+- 👀 I study engineering & I love technology!
+- 🌱 I’m currently doing a PhD at the University of Manchester, UK.
+- 💞️ On the side I am learning Python, C++, Linux, & web-dev tools!
 - 📫 Reach me via Twitter @TheCJBright.
-
-My repos contain a variety of notes, tutorials, own work, and coding challenges.
 
 <!---
 CJBright/CJBright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
