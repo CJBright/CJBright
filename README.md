@@ -8,7 +8,7 @@
 - 💞️ In my free time I can be found:
   -  🕹️ Gaming
   -  🏕️ Hiking and exploring
-  -  🇸🇪 learning languages
+  -  🇸🇪 Learning languages
 - 📫 Reach me via Twitter @TheCJBright.
 
 <!---
