@@ -1,14 +1,16 @@
 - 👋 Hi, I’m Charlie!
 - 🌱 I love learning how things operate, inspiring my education:
-  - 🎓 MEng (Hons), Mechanical Engineering, The University of Manchester, UK.
-  - 🎓 PhD Student, Mechanical Engineering, The University of Manchester, UK.
-- 🧠 Now I am exploring various aspects of computing, focussing on:
+  - 🎓 MEng (Hons), Mechanical Engineering. The University of Manchester, UK.
+  - 🎓 PhD Student, Mechanical Engineering. The University of Manchester, UK.
+- 🧠 I work as a freelance software engineer, with expertese in:
   - 🐍 Python
-  - 🧑‍💻 Web
+- 📚 I'm currently taking courses on:
+  - 🧑‍💻 Web Development
+  - 💿 Big Data
 - 💞️ In my free time I can be found:
   -  🕹️ Gaming
-  -  🏕️ Hiking and exploring
-  -  🇸🇪 Learning languages
+  -  🏕️ Explorig & Hiking
+  -  🗣️ Learning languages 🇸🇪🇳🇴🇳🇱
 - 📫 Reach me via Twitter @TheCJBright.
 
 <!---
